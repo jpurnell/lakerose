@@ -1,0 +1,93 @@
+qrencode -t svg -o basement/001-garage/eufy_camera.svg "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/eufy_c120.pdf"
+qrencode -t svg -o basement/001-garage/garage_door_opener_north.svg "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/1280_opener_manual.pdf"
+qrencode -t svg -o basement/001-garage/garage_door_opener_south.svg "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/liftmaster_formula_1.pdf"
+qrencode -t svg -o basement/002-laundry/washing_machine.svg "https://www.justinpurnell.com/lakerose/manuals/basement/002-laundry/LG_WM2455H_manual.pdf"
+qrencode -t svg -o basement/003-central/water_softener.svg "https://www.justinpurnell.com/lakerose/manuals/basement/003-central/manual_abr_2000.pdf"
+qrencode -t svg -o downstairs/101-mudroom/eufy_camera.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/101-mudroom/eufy_c120.pdf"
+qrencode -t svg -o downstairs/101-mudroom/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/101-mudroom/hague_blue_no_30_handcrafted_paint_farrow_&_ball.pdf"
+qrencode -t svg -o downstairs/102-kitchen/all-clad.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/all_clad_3_ply.pdf"
+qrencode -t svg -o downstairs/102-kitchen/anova.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/anova_qsg.pdf"
+qrencode -t svg -o downstairs/102-kitchen/blender.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/Propel_Series_510_and_750_Owners_Manual_6_1.pdf"
+qrencode -t svg -o downstairs/102-kitchen/coffee_grinder.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/505_grinder_ib_eng.pdf"
+qrencode -t svg -o downstairs/102-kitchen/coffee_maker.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/Brew_8710100_Booklet.pdf"
+qrencode -t svg -o downstairs/102-kitchen/dishwasher.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/bosch_SHPM65Z55N.pdf"
+qrencode -t svg -o downstairs/102-kitchen/homepod_mini.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/homepod-mini-qsg.pdf"
+qrencode -t svg -o downstairs/102-kitchen/induction_stove.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/stove_and_range.pdf"
+qrencode -t svg -o downstairs/102-kitchen/silverware.svg "https://www.bloomingdales.com/shop/product/villeroy-boch-celeste-60-piece-flatware-set-service-for-12?ID=1026936&cm_mmc=EML2-_-delivery_confirmation-_-Body-_-1026936&cm_mmca6=8525022"
+qrencode -t svg -o downstairs/102-kitchen/knives.svg "https://laguiole.store/shop/olivewood-laguiole-steak-knives-set-of-6/"
+qrencode -t svg -o downstairs/102-kitchen/le_cruset.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/le_creuset_care_and_use.pdf"
+qrencode -t svg -o downstairs/102-kitchen/microwave.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/MVEL213_manual.pdf"
+qrencode -t svg -o downstairs/102-kitchen/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/hague_blue_no_30_handcrafted_paint_farrow_&_ball.pdf"
+qrencode -t svg -o downstairs/102-kitchen/refrigerator.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/samsung_REG29TAARS.pdf"
+qrencode -t svg -o downstairs/102-kitchen/refigerator_qsg.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/samsung_REG29TAARS_qsg.pdf"
+qrencode -t svg -o downstairs/102-kitchen/scale.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/oxo_scale.pdf"
+qrencode -t svg -o downstairs/102-kitchen/toaster.svg "https://www.zwilling.com/us/zwilling-enfinigy-4-slot-toaster-53102-300/53102-300-0.html"
+qrencode -t svg -o downstairs/103-bathroom/toilet.svg "https://www.homedepot.com/p/TOTO-UltraMax-1-Piece-1-6-GPF-Single-Flush-Elongated-ADA-Comfort-Height-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS854114SL-01/300540274?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CB-_-Product_URL&ecc_ord=WE20707882&em_id=bfd0b5c5b5e581d3bbf4bca0e85701c7c266ad7b0986ac4a9cec32885ba67cd4"
+qrencode -t svg -o downstairs/103-bathroom/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/103-bathroom/hague_blue_no_30_handcrafted_paint_farrow_&_ball.pdf"
+qrencode -t svg -o downstairs/103-bathroom/vanity.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/103-bathroom/ariel_taylor_31_in_w_x_22_in_d_x_36_in_h_freestanding_bath_vanity_Q031SCWRVOWHT.pdf"
+qrencode -t svg -o downstairs/104-den/airport_extreme.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/airport_extreme_setup_guide.pdf"
+qrencode -t svg -o downstairs/104-den/denver_chairs.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/vail_lounge_chair_faq.pdf"
+qrencode -t svg -o downstairs/104-den/eufy_camera.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/eufy_c120.pdf"
+qrencode -t svg -o downstairs/104-den/homepod_mini.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/homepod-mini-qsg.pdf"
+qrencode -t svg -o downstairs/104-den/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/beverly_no_310_handcrafted_paint_farrow_&_ball.pdf"
+
+qrencode -t svg -o downstairs/106-hall/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/106-hall/revere_pewter_HC-172_benjamin_moore.pdf"
+qrencode -t svg -o downstairs/106-hall/security_system.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/106-hall/pro_a7_plus.pdf"
+qrencode -t svg -o downstairs/107-dining/ecobee.svg "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/"
+qrencode -t svg -o downstairs/107-dining/elaine_wesley_painting.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/elaine_wesley-james_cox_gallery_at_woodstock.pdf"
+qrencode -t svg -o downstairs/107-dining/eufy_camera.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/eufy_c120.pdf"
+qrencode -t svg -o downstairs/107-dining/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/skylight_no_205_handcrafted_paint_farrow_&_ball.pdf"
+qrencode -t svg -o downstairs/108-study/bose_soundlink.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/soundlink_bluetooth_mobile_speaker_ii.pdf"
+
+qrencode -t svg -o downstairs/108-study/caseta_home_2_hub.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/lutron_caseta_smart_hub.pdf"
+qrencode -t svg -o downstairs/108-study/eufy_camera.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/eufy_c120.pdf"
+qrencode -t svg -o downstairs/108-study/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/dorset_gold_HC-8_benjamin_moore.pdf"
+qrencode -t svg -o downstairs/109-living/ecobee.svg "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/"
+qrencode -t svg -o downstairs/109-living/fireplace.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/kendall_charcoal_HC-166_benjamin_moore.pdf"
+qrencode -t svg -o downstairs/109-living/homepod.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/homepod-2gen-qsg.pdf"
+qrencode -t svg -o downstairs/109-living/nintendo_switch.svg "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22496/~/nintendo-switch-manuals"
+qrencode -t svg -o downstairs/109-living/outlets.svg "https://www.amazon.com/gp/product/B0B6FJ5XBH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1"
+qrencode -t svg -o downstairs/109-living/paint_color.svg "https://www.farrow-ball.com/us/paint/light-blue"
+
+qrencode -t svg -o upstairs/202-guestbath/soap_dr_bronners.svg "https://www.drbronner.com/collections/all/products/peppermint-pure-castile-liquid-soap?variant=36027942928548"
+qrencode -t svg -o upstairs/202-guestbath/toilet.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/202-guestbath/MS854114SL_toto_ultramax_elongated.pdf"
+qrencode -t svg -o upstairs/203-bedroom/bed.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/AI_Mid_Century_Bed_Twin_and_Full.pdf"
+qrencode -t svg -o upstairs/203-bedroom/bed-trundle.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/AI_Mid_Century_Trundle.pdf"
+qrencode -t svg -o upstairs/203-bedroom/homepod_mini.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/homepod-mini-qsg.pdf"
+qrencode -t svg -o upstairs/203-bedroom/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/beacon_gray_2128-60_benjamin_moore.pdf"
+qrencode -t svg -o upstairs/204-guestroom/homepod_mini.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/204-guestroom/homepod-mini-qsg.pdf"
+qrencode -t svg -o upstairs/204-guestroom/paint_color.svg "https://www.benjaminmoore.com/en-us/paint-colors/color/2128-50/november-skies"
+
+qrencode -t svg -o upstairs/205-mainbath/radiator.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/205-mainbath/uf_specifications_and_installation_tips.pdf"
+qrencode -t svg -o upstairs/205-mainbath/soap_dr_bronners.svg "https://www.drbronner.com/collections/all/products/peppermint-pure-castile-liquid-soap?variant=36027942928548"
+qrencode -t svg -o upstairs/205-mainbath/toilet.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/205-mainbath/MS854114SL_toto_ultramax_elongated.pdf"
+
+qrencode -t svg -o upstairs/207-mainbed/bed.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/Tate_Queen_King_Wood_Bed_ML.pdf"
+qrencode -t svg -o upstairs/207-mainbed/bed.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/Tate_Queen_King_Wood_Bed_ML.pdf"
+qrencode -t svg -o upstairs/207-mainbed/homepod_mini.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/homepod-mini-qsg.pdf"
+qrencode -t svg -o upstairs/207-mainbed/nightstands.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/Tate_2_Drawer_Nightstand_ML"
+qrencode -t svg -o upstairs/207-mainbed/paint_color.svg "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/light_blue_no_22_handcrafted_paint_farrow_&_ball.pdf"
+
+
+
+
+
+qrencode -t svg -o downstairs/104-den/eufy_backyard_camera.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/outdoor_cam_pro_wired_manual_en.pdf"
+
+
+
+
+
+
+
+
+
+
+
+qrencode -t svg -o downstairs/109-living/telescope.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/horox_telescope_setup_manual.pdf"
+qrencode -t svg -o downstairs/109-living/telescope.svg "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/horox_telescope_instruction_manual.pdf"
+qrencode -t svg -o downstairs/105-porch/trampoline.svg "https://www.amazon.com/gp/product/B088FKN14W/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1"
+qrencode -t svg -o upstairs/205-mainbath/vanity.svg "https://www.potterybarn.com/products/warner-48-single-sink-vanity-mp/?pkey=s~White%20warner%20Single%20Sink%20Vanity~7"
+
+
+qrencode -t svg -o downstairs/109-living/tv.svg "https://support.apple.com/en-us/docs/apple-tv/300903"
