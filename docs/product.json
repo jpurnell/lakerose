@@ -1,0 +1,11 @@
+{
+"name": "Eufy Camera",
+"location": "Garage",
+"imageURL": "https://m.media-amazon.com/images/I/51M7meD33sL._AC_SL1500_.jpg",
+"installDate": "2023-08-01T00:00:00",
+"lastServiceDate": "1900-01-00T00:00:00",
+"nextServiceDate": "1900-01-00T00:00:00",
+"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/garage_eufy_camera_manual.pdf",
+"notes": "",
+"qrCode": "/images/001-garage_garage_eufy_camera/001-garage_garage_eufy_camera.svg"
+}
