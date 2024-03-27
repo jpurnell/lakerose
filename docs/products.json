@@ -9,7 +9,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/garage_eufy_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/001_garage_eufy_camera/001_garage_eufy_camera.svg"
+			"qrCode": "/images/001-garage_eufy_camera/001-garage_eufy_camera.svg"
 		},
 		{
 			"name": "Garage Door Opener North",
@@ -20,7 +20,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/garage_garage_door_opener_north_manual.pdf",
 			"notes": "",
-			"qrCode": "images/001_garage_garage_door_opener_north/001_garage_garage_door_opener_north.svg"
+			"qrCode": "/images/001-garage_garage_door_opener_north/001-garage_garage_door_opener_north.svg"
 		},
 		{
 			"name": "Garage Door Opener South",
@@ -31,7 +31,7 @@
 			"nextServiceDate": "2032-02-29T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/001-garage/garage_garage_door_opener_south_manual.pdf",
 			"notes": "Serviced by Twin State Garage Door: 603.632.4900",
-			"qrCode": "images/001_garage_garage_door_opener_south/001_garage_garage_door_opener_south.svg"
+			"qrCode": "/images/001-garage_garage_door_opener_south/001-garage_garage_door_opener_south.svg"
 		},
 		{
 			"name": "Washing Machine",
@@ -42,7 +42,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/002-laundry/laundry_washing_machine_manual.pdf",
 			"notes": "",
-			"qrCode": "images/002_laundry_washing_machine/002_laundry_washing_machine.svg"
+			"qrCode": "/images/002-laundry_washing_machine/002-laundry_washing_machine.svg"
 		},
 		{
 			"name": "Water Softener",
@@ -53,7 +53,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/basement/003-central/central_water_softener_manual.pdf",
 			"notes": "",
-			"qrCode": "images/003_central_water_softener/003_central_water_softener.svg"
+			"qrCode": "/images/003-central_water_softener/003-central_water_softener.svg"
 		},
 		{
 			"name": "Eufy Camera",
@@ -64,7 +64,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/101-mudroom/mudroom_eufy_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/101_mudroom_eufy_camera/101_mudroom_eufy_camera.svg"
+			"qrCode": "/images/101-mudroom_eufy_camera/101-mudroom_eufy_camera.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -75,7 +75,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/101-mudroom/mudroom_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/101_mudroom_paint_color/101_mudroom_paint_color.svg"
+			"qrCode": "/images/101-mudroom_paint_color/101-mudroom_paint_color.svg"
 		},
 		{
 			"name": "All-Clad",
@@ -86,7 +86,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_all-clad_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_all-clad/102_kitchen_all-clad.svg"
+			"qrCode": "/images/102-kitchen_all-clad/102-kitchen_all-clad.svg"
 		},
 		{
 			"name": "Anova",
@@ -97,7 +97,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_anova_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_anova/102_kitchen_anova.svg"
+			"qrCode": "/images/102-kitchen_anova/102-kitchen_anova.svg"
 		},
 		{
 			"name": "Blender",
@@ -108,7 +108,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_blender_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_blender/102_kitchen_blender.svg"
+			"qrCode": "/images/102-kitchen_blender/102-kitchen_blender.svg"
 		},
 		{
 			"name": "Coffee Grinder",
@@ -119,7 +119,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_coffee_grinder_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_coffee_grinder/102_kitchen_coffee_grinder.svg"
+			"qrCode": "/images/102-kitchen_coffee_grinder/102-kitchen_coffee_grinder.svg"
 		},
 		{
 			"name": "Coffee Maker",
@@ -130,7 +130,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_coffee_maker_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_coffee_maker/102_kitchen_coffee_maker.svg"
+			"qrCode": "/images/102-kitchen_coffee_maker/102-kitchen_coffee_maker.svg"
 		},
 		{
 			"name": "Dishwasher",
@@ -141,7 +141,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_dishwasher_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_dishwasher/102_kitchen_dishwasher.svg"
+			"qrCode": "/images/102-kitchen_dishwasher/102-kitchen_dishwasher.svg"
 		},
 		{
 			"name": "Homepod Mini",
@@ -152,7 +152,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_homepod_mini_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_homepod_mini/102_kitchen_homepod_mini.svg"
+			"qrCode": "/images/102-kitchen_homepod_mini/102-kitchen_homepod_mini.svg"
 		},
 		{
 			"name": "Induction Stove",
@@ -163,7 +163,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_induction_stove_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_induction_stove/102_kitchen_induction_stove.svg"
+			"qrCode": "/images/102-kitchen_induction_stove/102-kitchen_induction_stove.svg"
 		},
 		{
 			"name": "Silverware",
@@ -174,7 +174,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.bloomingdales.com/shop/product/villeroy-boch-celeste-60-piece-flatware-set-service-for-12?ID=1026936&cm_mmc=EML2-_-delivery_confirmation-_-Body-_-1026936&cm_mmca6=8525022_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_silverware/102_kitchen_silverware.svg"
+			"qrCode": "/images/102-kitchen_silverware/102-kitchen_silverware.svg"
 		},
 		{
 			"name": "Knives",
@@ -185,7 +185,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://laguiole.store/shop/olivewood-laguiole-steak-knives-set-of-6/_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_knives/102_kitchen_knives.svg"
+			"qrCode": "/images/102-kitchen_knives/102-kitchen_knives.svg"
 		},
 		{
 			"name": "Le Cruset",
@@ -196,7 +196,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_le_cruset_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_le_cruset/102_kitchen_le_cruset.svg"
+			"qrCode": "/images/102-kitchen_le_cruset/102-kitchen_le_cruset.svg"
 		},
 		{
 			"name": "Microwave",
@@ -207,7 +207,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_microwave_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_microwave/102_kitchen_microwave.svg"
+			"qrCode": "/images/102-kitchen_microwave/102-kitchen_microwave.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -218,7 +218,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_paint_color/102_kitchen_paint_color.svg"
+			"qrCode": "/images/102-kitchen_paint_color/102-kitchen_paint_color.svg"
 		},
 		{
 			"name": "Refrigerator",
@@ -229,7 +229,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_refrigerator_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_refrigerator/102_kitchen_refrigerator.svg"
+			"qrCode": "/images/102-kitchen_refrigerator/102-kitchen_refrigerator.svg"
 		},
 		{
 			"name": "Refigerator QSG",
@@ -240,7 +240,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_refigerator_qsg_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_refigerator_qsg/102_kitchen_refigerator_qsg.svg"
+			"qrCode": "/images/102-kitchen_refigerator_qsg/102-kitchen_refigerator_qsg.svg"
 		},
 		{
 			"name": "Scale",
@@ -251,7 +251,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/102-kitchen/kitchen_scale_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_scale/102_kitchen_scale.svg"
+			"qrCode": "/images/102-kitchen_scale/102-kitchen_scale.svg"
 		},
 		{
 			"name": "Toaster",
@@ -262,7 +262,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.zwilling.com/us/zwilling-enfinigy-4-slot-toaster-53102-300/53102-300-0.html_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_toaster/102_kitchen_toaster.svg"
+			"qrCode": "/images/102-kitchen_toaster/102-kitchen_toaster.svg"
 		},
 		{
 			"name": "Toilet",
@@ -273,7 +273,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.homedepot.com/p/TOTO-UltraMax-1-Piece-1-6-GPF-Single-Flush-Elongated-ADA-Comfort-Height-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS854114SL-01/300540274?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CB-_-Product_URL&ecc_ord=WE20707882&em_id=bfd0b5c5b5e581d3bbf4bca0e85701c7c266ad7b0986ac4a9cec32885ba67cd4_manual.pdf",
 			"notes": "",
-			"qrCode": "images/103_bathroom_toilet/103_bathroom_toilet.svg"
+			"qrCode": "/images/103-bathroom_toilet/103-bathroom_toilet.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -284,7 +284,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/103-bathroom/bathroom_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/103_bathroom_paint_color/103_bathroom_paint_color.svg"
+			"qrCode": "/images/103-bathroom_paint_color/103-bathroom_paint_color.svg"
 		},
 		{
 			"name": "Vanity",
@@ -295,7 +295,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/103-bathroom/bathroom_vanity_manual.pdf",
 			"notes": "",
-			"qrCode": "images/103_bathroom_vanity/103_bathroom_vanity.svg"
+			"qrCode": "/images/103-bathroom_vanity/103-bathroom_vanity.svg"
 		},
 		{
 			"name": "Airport Extreme",
@@ -306,7 +306,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_airport_extreme_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_airport_extreme/104_den_airport_extreme.svg"
+			"qrCode": "/images/104-den_airport_extreme/104-den_airport_extreme.svg"
 		},
 		{
 			"name": "Denver Chairs",
@@ -317,7 +317,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_denver_chairs_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_denver_chairs/104_den_denver_chairs.svg"
+			"qrCode": "/images/104-den_denver_chairs/104-den_denver_chairs.svg"
 		},
 		{
 			"name": "Eufy Camera",
@@ -328,7 +328,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_eufy_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_eufy_camera/104_den_eufy_camera.svg"
+			"qrCode": "/images/104-den_eufy_camera/104-den_eufy_camera.svg"
 		},
 		{
 			"name": "Homepod Mini",
@@ -339,7 +339,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_homepod_mini_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_homepod_mini/104_den_homepod_mini.svg"
+			"qrCode": "/images/104-den_homepod_mini/104-den_homepod_mini.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -350,7 +350,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_paint_color/104_den_paint_color.svg"
+			"qrCode": "/images/104-den_paint_color/104-den_paint_color.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -361,7 +361,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/105_porch_paint_color/105_porch_paint_color.svg"
+			"qrCode": "/images/105-porch_paint_color/105-porch_paint_color.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -372,7 +372,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/106-hall/hall_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/106_hall_paint_color/106_hall_paint_color.svg"
+			"qrCode": "/images/106-hall_paint_color/106-hall_paint_color.svg"
 		},
 		{
 			"name": "Security System",
@@ -383,7 +383,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/106-hall/hall_security_system_manual.pdf",
 			"notes": "",
-			"qrCode": "images/106_hall_security_system/106_hall_security_system.svg"
+			"qrCode": "/images/106-hall_security_system/106-hall_security_system.svg"
 		},
 		{
 			"name": "Ecobee",
@@ -394,7 +394,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/_manual.pdf",
 			"notes": "",
-			"qrCode": "images/107_dining_room_ecobee/107_dining_room_ecobee.svg"
+			"qrCode": "/images/107-dining_room_ecobee/107-dining_room_ecobee.svg"
 		},
 		{
 			"name": "Elaine Wesley Painting",
@@ -405,7 +405,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/dining_room_elaine_wesley_painting_manual.pdf",
 			"notes": "",
-			"qrCode": "images/107_dining_room_elaine_wesley_painting/107_dining_room_elaine_wesley_painting.svg"
+			"qrCode": "/images/107-dining_room_elaine_wesley_painting/107-dining_room_elaine_wesley_painting.svg"
 		},
 		{
 			"name": "Eufy Camera",
@@ -416,7 +416,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/dining_room_eufy_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/107_dining_room_eufy_camera/107_dining_room_eufy_camera.svg"
+			"qrCode": "/images/107-dining_room_eufy_camera/107-dining_room_eufy_camera.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -427,7 +427,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/107-dining/dining_room_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/107_dining_room_paint_color/107_dining_room_paint_color.svg"
+			"qrCode": "/images/107-dining_room_paint_color/107-dining_room_paint_color.svg"
 		},
 		{
 			"name": "Bose Soundlink",
@@ -438,7 +438,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/study_bose_soundlink_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_bose_soundlink/108_study_bose_soundlink.svg"
+			"qrCode": "/images/108-study_bose_soundlink/108-study_bose_soundlink.svg"
 		},
 		{
 			"name": "Cable Modem",
@@ -449,7 +449,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_cable_modem/108_study_cable_modem.svg"
+			"qrCode": "/images/108-study_cable_modem/108-study_cable_modem.svg"
 		},
 		{
 			"name": "Caseta Home 2 Hub",
@@ -460,7 +460,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/study_caseta_home_2_hub_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_caseta_home_2_hub/108_study_caseta_home_2_hub.svg"
+			"qrCode": "/images/108-study_caseta_home_2_hub/108-study_caseta_home_2_hub.svg"
 		},
 		{
 			"name": "Eufy Camera",
@@ -471,7 +471,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/study_eufy_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_eufy_camera/108_study_eufy_camera.svg"
+			"qrCode": "/images/108-study_eufy_camera/108-study_eufy_camera.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -482,7 +482,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/108-study/study_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_paint_color/108_study_paint_color.svg"
+			"qrCode": "/images/108-study_paint_color/108-study_paint_color.svg"
 		},
 		{
 			"name": "Ecobee",
@@ -493,7 +493,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_ecobee/109_living_room_ecobee.svg"
+			"qrCode": "/images/109-living_room_ecobee/109-living_room_ecobee.svg"
 		},
 		{
 			"name": "Fireplace",
@@ -504,7 +504,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/living_room_fireplace_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_fireplace/109_living_room_fireplace.svg"
+			"qrCode": "/images/109-living_room_fireplace/109-living_room_fireplace.svg"
 		},
 		{
 			"name": "Homepod",
@@ -515,7 +515,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/living_room_homepod_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_homepod/109_living_room_homepod.svg"
+			"qrCode": "/images/109-living_room_homepod/109-living_room_homepod.svg"
 		},
 		{
 			"name": "Nintendo Switch",
@@ -526,7 +526,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22496/~/nintendo-switch-manuals_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_nintendo_switch/109_living_room_nintendo_switch.svg"
+			"qrCode": "/images/109-living_room_nintendo_switch/109-living_room_nintendo_switch.svg"
 		},
 		{
 			"name": "Outlets",
@@ -537,7 +537,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.amazon.com/gp/product/B0B6FJ5XBH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_outlets/109_living_room_outlets.svg"
+			"qrCode": "/images/109-living_room_outlets/109-living_room_outlets.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -548,7 +548,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.farrow-ball.com/us/paint/light-blue_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_paint_color/109_living_room_paint_color.svg"
+			"qrCode": "/images/109-living_room_paint_color/109-living_room_paint_color.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -559,7 +559,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/202_guest_bathroom_paint_color/202_guest_bathroom_paint_color.svg"
+			"qrCode": "/images/202-guest_bathroom_paint_color/202-guest_bathroom_paint_color.svg"
 		},
 		{
 			"name": "Soap (Dr. Bronners)",
@@ -570,7 +570,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.drbronner.com/collections/all/products/peppermint-pure-castile-liquid-soap?variant=36027942928548_manual.pdf",
 			"notes": "",
-			"qrCode": "images/202_guest_bathroom_soap_dr_bronners/202_guest_bathroom_soap_dr_bronners.svg"
+			"qrCode": "/images/202-guest_bathroom_soap_dr_bronners/202-guest_bathroom_soap_dr_bronners.svg"
 		},
 		{
 			"name": "Toilet",
@@ -581,7 +581,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/202-guestbath/guest_bathroom_toilet_manual.pdf",
 			"notes": "",
-			"qrCode": "images/202_guest_bathroom_toilet/202_guest_bathroom_toilet.svg"
+			"qrCode": "/images/202-guest_bathroom_toilet/202-guest_bathroom_toilet.svg"
 		},
 		{
 			"name": "Bed",
@@ -592,7 +592,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/kids_bedroom_bed_manual.pdf",
 			"notes": "",
-			"qrCode": "images/203_kids_bedroom_bed/203_kids_bedroom_bed.svg"
+			"qrCode": "/images/203-kids_bedroom_bed/203-kids_bedroom_bed.svg"
 		},
 		{
 			"name": "Bed-Trundle",
@@ -603,7 +603,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/kids_bedroom_bed-trundle_manual.pdf",
 			"notes": "",
-			"qrCode": "images/203_kids_bedroom_bed-trundle/203_kids_bedroom_bed-trundle.svg"
+			"qrCode": "/images/203-kids_bedroom_bed-trundle/203-kids_bedroom_bed-trundle.svg"
 		},
 		{
 			"name": "Homepod Mini",
@@ -614,7 +614,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/kids_bedroom_homepod_mini_manual.pdf",
 			"notes": "",
-			"qrCode": "images/203_kids_bedroom_homepod_mini/203_kids_bedroom_homepod_mini.svg"
+			"qrCode": "/images/203-kids_bedroom_homepod_mini/203-kids_bedroom_homepod_mini.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -625,7 +625,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/203-bedroom/kids_bedroom_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/203_kids_bedroom_paint_color/203_kids_bedroom_paint_color.svg"
+			"qrCode": "/images/203-kids_bedroom_paint_color/203-kids_bedroom_paint_color.svg"
 		},
 		{
 			"name": "Homepod Mini",
@@ -636,7 +636,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/204-guestroom/guest_bedroom_homepod_mini_manual.pdf",
 			"notes": "",
-			"qrCode": "images/204_guest_bedroom_homepod_mini/204_guest_bedroom_homepod_mini.svg"
+			"qrCode": "/images/204-guest_bedroom_homepod_mini/204-guest_bedroom_homepod_mini.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -647,7 +647,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.benjaminmoore.com/en-us/paint-colors/color/2128-50/november-skies_manual.pdf",
 			"notes": "",
-			"qrCode": "images/204_guest_bedroom_paint_color/204_guest_bedroom_paint_color.svg"
+			"qrCode": "/images/204-guest_bedroom_paint_color/204-guest_bedroom_paint_color.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -658,7 +658,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_paint_color/205_master_bathroom_paint_color.svg"
+			"qrCode": "/images/205-master_bathroom_paint_color/205-master_bathroom_paint_color.svg"
 		},
 		{
 			"name": "Radiator",
@@ -669,7 +669,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/205-mainbath/master_bathroom_radiator_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_radiator/205_master_bathroom_radiator.svg"
+			"qrCode": "/images/205-master_bathroom_radiator/205-master_bathroom_radiator.svg"
 		},
 		{
 			"name": "Soap (Dr. Bronners)",
@@ -680,7 +680,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.drbronner.com/collections/all/products/peppermint-pure-castile-liquid-soap?variant=36027942928548_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_soap_dr_bronners/205_master_bathroom_soap_dr_bronners.svg"
+			"qrCode": "/images/205-master_bathroom_soap_dr_bronners/205-master_bathroom_soap_dr_bronners.svg"
 		},
 		{
 			"name": "Toilet",
@@ -691,7 +691,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/205-mainbath/master_bathroom_toilet_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_toilet/205_master_bathroom_toilet.svg"
+			"qrCode": "/images/205-master_bathroom_toilet/205-master_bathroom_toilet.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -702,7 +702,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/206_closet_paint_color/206_closet_paint_color.svg"
+			"qrCode": "/images/206-closet_paint_color/206-closet_paint_color.svg"
 		},
 		{
 			"name": "Bed",
@@ -713,7 +713,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/master_bedroom_bed_manual.pdf",
 			"notes": "",
-			"qrCode": "images/207_master_bedroom_bed/207_master_bedroom_bed.svg"
+			"qrCode": "/images/207-master_bedroom_bed/207-master_bedroom_bed.svg"
 		},
 		{
 			"name": "Bed",
@@ -724,7 +724,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/master_bedroom_bed_manual.pdf",
 			"notes": "",
-			"qrCode": "images/207_master_bedroom_bed/207_master_bedroom_bed.svg"
+			"qrCode": "/images/207-master_bedroom_bed/207-master_bedroom_bed.svg"
 		},
 		{
 			"name": "Homepod Mini",
@@ -735,7 +735,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/master_bedroom_homepod_mini_manual.pdf",
 			"notes": "",
-			"qrCode": "images/207_master_bedroom_homepod_mini/207_master_bedroom_homepod_mini.svg"
+			"qrCode": "/images/207-master_bedroom_homepod_mini/207-master_bedroom_homepod_mini.svg"
 		},
 		{
 			"name": "Nightstands",
@@ -746,7 +746,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/master_bedroom_nightstands_manual.pdf",
 			"notes": "",
-			"qrCode": "images/207_master_bedroom_nightstands/207_master_bedroom_nightstands.svg"
+			"qrCode": "/images/207-master_bedroom_nightstands/207-master_bedroom_nightstands.svg"
 		},
 		{
 			"name": "Paint Color",
@@ -757,7 +757,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/upstairs/207-mainbed/master_bedroom_paint_color_manual.pdf",
 			"notes": "",
-			"qrCode": "images/207_master_bedroom_paint_color/207_master_bedroom_paint_color.svg"
+			"qrCode": "/images/207-master_bedroom_paint_color/207-master_bedroom_paint_color.svg"
 		},
 		{
 			"name": "Cabinet Lights",
@@ -768,7 +768,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/102_kitchen_cabinet_lights/102_kitchen_cabinet_lights.svg"
+			"qrCode": "/images/102-kitchen_cabinet_lights/102-kitchen_cabinet_lights.svg"
 		},
 		{
 			"name": "Couch",
@@ -779,7 +779,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_couch/109_living_room_couch.svg"
+			"qrCode": "/images/109-living_room_couch/109-living_room_couch.svg"
 		},
 		{
 			"name": "Eufy Backyard Camera",
@@ -790,7 +790,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/104-den/den_eufy_backyard_camera_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_eufy_backyard_camera/104_den_eufy_backyard_camera.svg"
+			"qrCode": "/images/104-den_eufy_backyard_camera/104-den_eufy_backyard_camera.svg"
 		},
 		{
 			"name": "Heaters",
@@ -801,7 +801,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_heaters/109_living_room_heaters.svg"
+			"qrCode": "/images/109-living_room_heaters/109-living_room_heaters.svg"
 		},
 		{
 			"name": "Mirror",
@@ -812,7 +812,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_mirror/205_master_bathroom_mirror.svg"
+			"qrCode": "/images/205-master_bathroom_mirror/205-master_bathroom_mirror.svg"
 		},
 		{
 			"name": "Physical Fixtures",
@@ -823,7 +823,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_physical_fixtures/205_master_bathroom_physical_fixtures.svg"
+			"qrCode": "/images/205-master_bathroom_physical_fixtures/205-master_bathroom_physical_fixtures.svg"
 		},
 		{
 			"name": "Record Player",
@@ -834,7 +834,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/104_den_record_player/104_den_record_player.svg"
+			"qrCode": "/images/104-den_record_player/104-den_record_player.svg"
 		},
 		{
 			"name": "Router",
@@ -845,7 +845,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/108_study_router/108_study_router.svg"
+			"qrCode": "/images/108-study_router/108-study_router.svg"
 		},
 		{
 			"name": "Rug",
@@ -856,7 +856,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_rug/109_living_room_rug.svg"
+			"qrCode": "/images/109-living_room_rug/109-living_room_rug.svg"
 		},
 		{
 			"name": "Samsung TV",
@@ -867,7 +867,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_samsung_tv/109_living_room_samsung_tv.svg"
+			"qrCode": "/images/109-living_room_samsung_tv/109-living_room_samsung_tv.svg"
 		},
 		{
 			"name": "Shower Fixture",
@@ -878,7 +878,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_shower_fixture/205_master_bathroom_shower_fixture.svg"
+			"qrCode": "/images/205-master_bathroom_shower_fixture/205-master_bathroom_shower_fixture.svg"
 		},
 		{
 			"name": "Sink",
@@ -889,7 +889,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_sink/205_master_bathroom_sink.svg"
+			"qrCode": "/images/205-master_bathroom_sink/205-master_bathroom_sink.svg"
 		},
 		{
 			"name": "Telescope",
@@ -900,7 +900,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/living_room_telescope_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_telescope/109_living_room_telescope.svg"
+			"qrCode": "/images/109-living_room_telescope/109-living_room_telescope.svg"
 		},
 		{
 			"name": "Telescope",
@@ -911,7 +911,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.justinpurnell.com/lakerose/manuals/downstairs/109-living/living_room_telescope_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_telescope/109_living_room_telescope.svg"
+			"qrCode": "/images/109-living_room_telescope/109-living_room_telescope.svg"
 		},
 		{
 			"name": "Trampoline",
@@ -922,7 +922,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.amazon.com/gp/product/B088FKN14W/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1_manual.pdf",
 			"notes": "",
-			"qrCode": "images/105_porch_trampoline/105_porch_trampoline.svg"
+			"qrCode": "/images/105-porch_trampoline/105-porch_trampoline.svg"
 		},
 		{
 			"name": "Vanity",
@@ -933,7 +933,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://www.potterybarn.com/products/warner-48-single-sink-vanity-mp/?pkey=s~White%20warner%20Single%20Sink%20Vanity~7_manual.pdf",
 			"notes": "",
-			"qrCode": "images/205_master_bathroom_vanity/205_master_bathroom_vanity.svg"
+			"qrCode": "/images/205-master_bathroom_vanity/205-master_bathroom_vanity.svg"
 		},
 		{
 			"name": "Walkie-Talkies",
@@ -944,7 +944,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_walkie-talkies/109_living_room_walkie-talkies.svg"
+			"qrCode": "/images/109-living_room_walkie-talkies/109-living_room_walkie-talkies.svg"
 		},
 		{
 			"name": "Washington National Cathedral",
@@ -955,7 +955,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "_manual.pdf",
 			"notes": "",
-			"qrCode": "images/103_bathroom_washington_national_cathedral/103_bathroom_washington_national_cathedral.svg"
+			"qrCode": "/images/103-bathroom_washington_national_cathedral/103-bathroom_washington_national_cathedral.svg"
 		},
 		{
 			"name": "TV",
@@ -966,7 +966,7 @@
 			"nextServiceDate": "1900-01-00T00:00:00",
 			"manualLocation": "https://support.apple.com/en-us/docs/apple-tv/300903_manual.pdf",
 			"notes": "",
-			"qrCode": "images/109_living_room_tv/109_living_room_tv.svg"
+			"qrCode": "/images/109-living_room_tv/109-living_room_tv.svg"
 		}
 	]
 }
